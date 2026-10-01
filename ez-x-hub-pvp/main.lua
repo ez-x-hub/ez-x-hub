@@ -4,6 +4,7 @@ local CoreGui = game:GetService("CoreGui")
 -- ตั้งค่าคีย์และลิงก์สคริปต์หลักที่นี่
 local CORRECT_KEY = "23041655"
 local SCRIPT_URL = "https://pastefy.app/ub8wLvTT/raw" -- เปลี่ยนเป็นลิงก์ Raw สคริปต์ของคุณ
+ -- raw ของ pvp
 
 local KeyScreenGui = Instance.new("ScreenGui")
 KeyScreenGui.Name = "GM_KeySystem"
